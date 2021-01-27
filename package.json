@@ -1,0 +1,16 @@
+{
+  "name": "compress-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compress-images": "^1.9.2",
+    "gifsicle": "^5.1.0",
+    "pngquant-bin": "^6.0.0"
+  }
+}
